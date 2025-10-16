@@ -3,13 +3,12 @@
 ## About Me
 
 - Hi, I’m **Akhil Balineni**—a software developer passionate about building scalable backend systems and impactful cloud solutions.
-- 🎓 Currently pursuing my M.S. in Computer Science at Arizona State University (GPA: 3.97), after earning a B.Tech in Computer Science & Engineering from SRM Institute.
 - ☁️ Experienced in designing and deploying distributed, cloud-based solutions with AWS and GCP.
 - 🛠️ Backend engineer specializing in Java, Spring Boot, Python (FastAPI), Node.js, REST APIs, Apache Kafka, and database optimization (SQL, PL/SQL, MongoDB).
 - 🤖 Interest in machine learning and analytics; built Elastic Face Recognition and disease-detection models using TensorFlow, Keras, and PyTorch.
 - 📊 Skilled in big data technologies: Hadoop, Spark, PySpark, and advanced data mining (e.g., Yelp Data Mining project).
 - 💬 Technical skills include Java, Python, C++, JavaScript, React, Spring Boot, Docker, AWS/GCP, Linux, SQL, MongoDB, Git, Tableau, and more.
-- 🏆 Hackathon participant and enthusiastic team collaborator—enjoy solving real-world problems in dynamic environments.
+- 🎓 Graduated with an M.S. in Computer Science from Arizona State University (GPA: 3.97), and a B.Tech in Computer Science & Engineering from SRM Institute.
 - I love tackling challenges using technology and enjoy working with impact-driven, collaborative teams.  
   Let’s connect and make something great!
 🔹 **Contact me:** [abalinen@asu.edu](mailto:abalinen@asu.edu)
