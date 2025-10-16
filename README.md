@@ -17,7 +17,7 @@
 
 ### Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhil-balineni-a69a09206)
-[![Instagram](https://img.shields.io/badge/-Instagram-red?logo=instagram&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/-Instagram-red?logo=instagram&logoColor=white)](https://www.instagram.com/akhil_balineni?igsh=MWhheGQwZjE4eHlkcA%3D%3D&utm_source=qr)
 
 ---
 
