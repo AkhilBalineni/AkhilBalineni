@@ -1,4 +1,4 @@
-<center># Hey!! I am Akhil Balineni</center>
+# Hey!! I am Akhil Balineni
 ## About Me
 #**Software Engineer and ASU Graduate, passionate about backend, cloud, and machine learning solutions that make an impact.**
 
