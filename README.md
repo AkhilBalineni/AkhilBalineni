@@ -22,8 +22,6 @@ Experience in:
 
 ## 🛠️ Languages and Tools
 
-## 🛠️ Languages and Tools
-
 ![Python](https://img.shields.io/badge/-Python-black?logo=python)
 ![Java](https://img.shields.io/badge/-Java-black?logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
