@@ -5,7 +5,7 @@
 
 - ☁️ **Cloud & Backend Expertise:** Designed and deployed distributed, scalable systems using AWS, Docker, Python, FastAPI, Node.js, and REST APIs,  delivering robust applications and optimized databases (SQL, PL/SQL, MongoDB).
 - 🤖 **ML & Data Science:** Developed advanced projects in computer vision (Elastic Face Recognition, OCT Retinal Disease Detection), and big data analytics (Yelp Data Mining). Skilled in TensorFlow, Keras, PyTorch, Hadoop, Spark, and PySpark.
-- 🎓 **Education:** M.S. in Computer Science (GPA: 3.97) from Arizona State University; B.Tech in Computer Science & Engineering from SRM Institute.
+- 🎓 **Education:** M.S. in Computer Science (GPA: 3.97) from Arizona State University; B.Tech in Computer Science & Engineering from SRM Institute of Science and Technology.
 - 🏆 **Projects & Collaboration:** Hackathon participant, enthusiastic team player. Thrive in collaborative, high-energy environments solving real-world problems.
 - 💡 **Mission:** Driven by a love for technology, continuous learning, and making a real difference through software.  
   *Let’s connect and build something impactful!*
