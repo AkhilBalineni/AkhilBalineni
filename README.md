@@ -1,16 +1,26 @@
 # Hey!! I am Akhil Balineni
 #### Software Developer | Machine Learning Engineer | Cloud Enthusiast | ASU Graduate
-## About Me
+<h2 align="center">About Me</h2>
 
-**Engineer with hands-on experience building scalable, high-performance applications.**  
-Recent MSCS grad from ASU, passionate about backend, cloud, and automation.  
-Experience in:
-- API design & cloud infrastructure (AWS, GCP)
-- REST APIs, microservices (Java/Spring Boot, Python/FastAPI)
-- ML, Data Mining, Analytics (TensorFlow, Keras, PyTorch)
-- Building and optimizing software from scratch
-
-*Open to Software Development Engineer opportunities with focus on backend, cloud, and automation. Always learning and contributing to challenging tech projects!*
+<p align="center">
+Hi, I’m <b>Akhil Balineni</b>—a passionate software developer and engineer focused on building high-impact, scalable solutions at the intersection of backend systems, cloud infrastructure, and automation.
+<br><br>
+🎓  M.S. in Computer Science (ASU, GPA: 3.97), B.Tech in Computer Science & Engineering from SRM Institute.
+<br>
+☁️  Cloud projects: End-to-end system builder—experience with AWS, GCP; built distributed, resilient microservices and APIs.
+<br>
+🛠️  Backend engineer: Java, Spring Boot, Python (FastAPI), Node.js, REST, Apache Kafka, database design (SQL, PL/SQL, MongoDB).
+<br>
+🤖  Enjoys machine learning and analytics: Experience with TensorFlow, Keras, PyTorch, Spark. Key project: Elastic Face Recognition in Videos.
+<br>
+📊  Data engineering: Skilled in Hadoop, Spark, PySpark, data mining (Yelp Data Mining project).
+<br>
+🏆  Hackathon participant and team player—thrive in collaborative, high-energy environments.
+<br>
+💡  Technical toolbox: Java, Python, C++, JavaScript, React, Spring Boot, Docker, AWS/GCP, Linux, SQL, MongoDB, Git, Tableau and more.
+<br><br>
+I love solving real-world problems with technology and always seek to grow alongside collaborative, impact-driven teams. Let’s connect and create innovative solutions!
+</p>
 
 🔹 **Contact me:** [abalinen@asu.edu](mailto:abalinen@asu.edu)
 
