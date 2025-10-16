@@ -1,5 +1,16 @@
 # Hey!! I am Akhil Balineni
 #### Software Developer | Machine Learning Engineer | Cloud Enthusiast | ASU Graduate
+## About Me
+
+**Engineer with hands-on experience building scalable, high-performance applications.**  
+Recent MSCS grad from ASU, passionate about backend, cloud, and automation.  
+Experience in:
+- API design & cloud infrastructure (AWS, GCP)
+- REST APIs, microservices (Java/Spring Boot, Python/FastAPI)
+- ML, Data Mining, Analytics (TensorFlow, Keras, PyTorch)
+- Building and optimizing software from scratch
+
+*Open to Software Development Engineer opportunities with focus on backend, cloud, and automation. Always learning and contributing to challenging tech projects!*
 
 🔹 **Contact me:** [abalinen@asu.edu](mailto:abalinen@asu.edu)
 
@@ -35,14 +46,4 @@
 
 ---
 
-## About Me
 
-**Engineer with hands-on experience building scalable, high-performance applications.**  
-Recent MSCS grad from ASU, passionate about backend, cloud, and automation.  
-Experience in:
-- API design & cloud infrastructure (AWS, GCP)
-- REST APIs, microservices (Java/Spring Boot, Python/FastAPI)
-- ML, Data Mining, Analytics (TensorFlow, Keras, PyTorch)
-- Building and optimizing software from scratch
-
-*Open to Software Development Engineer opportunities with focus on backend, cloud, and automation. Always learning and contributing to challenging tech projects!*
