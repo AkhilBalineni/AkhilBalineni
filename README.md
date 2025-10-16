@@ -10,6 +10,7 @@
 - 🎓 Graduated with an M.S. in Computer Science from Arizona State University (GPA: 3.97), and a B.Tech in Computer Science & Engineering from SRM Institute.
 - I love tackling challenges using technology and enjoy working with impact-driven, collaborative teams.  
   Let’s connect and make something great!
+  
 🔹 **Contact me:** [abalinen@asu.edu](mailto:abalinen@asu.edu)
 
 ### Connect With Me:
