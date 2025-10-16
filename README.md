@@ -1,14 +1,11 @@
-![Header](https://your-custom-banner-url.jpg)
-
 # Hey!! I am Akhil Balineni
-#### Software Developer | Cloud Enthusiast | ASU Graduate
+#### Software Developer | Machine Learning Engineer | Cloud Enthusiast | ASU Graduate
 
 🔹 **Contact me:** [abalinen@asu.edu](mailto:abalinen@asu.edu)
 
 ### Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhil-balineni-a69a09206)
 [![Instagram](https://img.shields.io/badge/-Instagram-red?logo=instagram&logoColor=white)](#)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?logo=facebook&logoColor=white)](#)
 
 ---
 
@@ -30,13 +27,11 @@
 ![Git](https://img.shields.io/badge/-Git-black?logo=git)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-black?logo=apachehadoop)
 ![Spark](https://img.shields.io/badge/-Spark-black?logo=apachespark)
-*... add more as needed*
 
 ---
-
 ## 📊 Most Used Languages
 
-<!-- GitHub stats or a custom bar graphic here -->
+![Python](https://img.shields.io/badge/-Python-black?logo=python)
 
 ---
 
@@ -51,12 +46,3 @@ Experience in:
 - Building and optimizing software from scratch
 
 *Open to Software Development Engineer opportunities with focus on backend, cloud, and automation. Always learning and contributing to challenging tech projects!*
-
----
-
-## 🔗 Featured Projects
-
-Check out my pinned repos below!
-
----
-
