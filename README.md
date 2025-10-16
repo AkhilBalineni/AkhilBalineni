@@ -10,10 +10,11 @@
 - 🏆 **Projects & Collaboration:** Hackathon participant, enthusiastic team player. Thrive in collaborative, high-energy environments solving real-world problems.
 - 💡 **Mission:** Driven by a love for technology, continuous learning, and making a real difference through software.  
   *Let’s connect and build something impactful!*
+  
+- 🎮 I'm passionate about playing video games—especially story-driven titles on my PS5.
 
 🔹 **Contact me:** [abalinen@asu.edu](mailto:abalinen@asu.edu)
 
-🔹 **Contact me:** [abalinen@asu.edu](mailto:abalinen@asu.edu)
 
 ### Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhil-balineni-a69a09206)
