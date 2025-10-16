@@ -2,13 +2,17 @@
 #### Software Developer | Machine Learning Engineer | Cloud Enthusiast | ASU Graduate
 
 ## About Me
+**Software Engineer and ASU Graduate, passionate about backend, cloud, and machine learning solutions that make an impact.**
 
-- Experienced backend and cloud engineer—skilled in Java, Python, REST APIs, database optimization, and distributed systems (AWS/GCP, Docker, Kafka).
-- Machine learning and analytics enthusiast—built face recognition and disease detection projects with TensorFlow, Keras, PyTorch; strong in big data (Hadoop, Spark).
-- Technical toolbox: Java, Python, C++, JavaScript, React, Spring Boot, SQL, MongoDB, Tableau, and more.
-- Graduated with an M.S. in Computer Science (GPA: 3.97) from Arizona State University and a B.Tech in Computer Science from SRM Institute.
-- Passionate about impact-driven teamwork and problem solving.  
-  Let’s connect!
+- ☁️ **Cloud & Backend Expertise:** Designed and deployed distributed, scalable systems using AWS, GCP, Docker, Java, Python, Spring Boot, FastAPI, Node.js, REST APIs, and Apache Kafka— delivering robust applications and optimized databases (SQL, PL/SQL, MongoDB).
+- 🤖 **ML & Data Science:** Developed advanced projects in computer vision (Elastic Face Recognition, OCT Retinal Disease Detection), and big data analytics (Yelp Data Mining). Skilled in TensorFlow, Keras, PyTorch, Hadoop, Spark, and PySpark.
+- 🛠️ **Technical Toolbox:** Proficient in Java, Python, C++, JavaScript, React, Spring Boot, Docker, Linux, SQL, MongoDB, Git, Tableau, and more.
+- 🎓 **Education:** M.S. in Computer Science (GPA: 3.97) from Arizona State University; B.Tech in Computer Science & Engineering from SRM Institute.
+- 🏆 **Projects & Collaboration:** Hackathon participant, enthusiastic team player. Thrive in collaborative, high-energy environments solving real-world problems.
+- 💡 **Mission:** Driven by a love for technology, continuous learning, and making a real difference through software.  
+  *Let’s connect and build something impactful!*
+
+🔹 **Contact me:** [abalinen@asu.edu](mailto:abalinen@asu.edu)
 
 🔹 **Contact me:** [abalinen@asu.edu](mailto:abalinen@asu.edu)
 
