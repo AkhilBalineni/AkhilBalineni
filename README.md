@@ -2,7 +2,7 @@
 #### Software Developer | Machine Learning Engineer | Cloud Enthusiast | ASU Graduate
 ## About Me
 
-- Hi, I’m **Akhil Balineni**—a software developer passionate about building scalable backend systems and impactful cloud solutions.
+- Hi, I’m **Akhil Balineni** - a software developer passionate about building scalable backend systems and impactful cloud solutions.
 - ☁️ Experienced in designing and deploying distributed, cloud-based solutions with AWS and GCP.
 - 🛠️ Backend engineer specializing in Java, Spring Boot, Python (FastAPI), Node.js, REST APIs, Apache Kafka, and database optimization (SQL, PL/SQL, MongoDB).
 - 🤖 Interest in machine learning and analytics; built Elastic Face Recognition and disease-detection models using TensorFlow, Keras, and PyTorch.
