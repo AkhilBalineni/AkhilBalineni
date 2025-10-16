@@ -22,8 +22,11 @@ Experience in:
 
 ## 🛠️ Languages and Tools
 
+## 🛠️ Languages and Tools
+
 ![Python](https://img.shields.io/badge/-Python-black?logo=python)
 ![Java](https://img.shields.io/badge/-Java-black?logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
 ![C++](https://img.shields.io/badge/-C%2B%2B-black?logo=c%2B%2B)
 ![SpringBoot](https://img.shields.io/badge/-Springboot-black?logo=spring)
 ![React](https://img.shields.io/badge/-React-black?logo=react)
@@ -39,10 +42,12 @@ Experience in:
 ![Hadoop](https://img.shields.io/badge/-Hadoop-black?logo=apachehadoop)
 ![Spark](https://img.shields.io/badge/-Spark-black?logo=apachespark)
 
+
 ---
 ## 📊 Most Used Languages
 
 ![Python](https://img.shields.io/badge/-Python-black?logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
 
 ---
 
